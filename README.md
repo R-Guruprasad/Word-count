@@ -36,9 +36,8 @@ print("number of words ={}".format(num_word))
 
 ### OUTPUT:
 ![1](/pic1.png)
-
-![2](/pic2.png)
-![3](/pic3.png)
+![1](/pic2.png)
+![1](/pic3.png)
 
 
 
