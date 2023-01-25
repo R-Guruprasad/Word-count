@@ -46,4 +46,4 @@ print("number of words ={}".format(num_word))
 
 
 ## RESULT:
-Thus the program is written to find the word count from a text.
+Thus the program is written to find the word count from a text. 
